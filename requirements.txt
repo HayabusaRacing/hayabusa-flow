@@ -1,0 +1,7 @@
+# OpenFOAM Manual Simulation Runner Requirements
+PyFoam
+numpy
+trimesh
+tkinter  # Usually included with Python, but listed for completeness
+pathlib  # Usually included with Python
+argparse  # Usually included with Python
